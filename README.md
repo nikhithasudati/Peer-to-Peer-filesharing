@@ -1,4 +1,3 @@
-Certainly, here's an edited version of your information that you can use for a README.md file:
 
 # Peer-to-Peer File Sharing
 
