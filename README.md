@@ -58,4 +58,3 @@
 
 - When all peers have received the complete file, the connection is terminated, and the execution stops.
 
-Feel free to adjust and expand this README as needed to provide more details or clarify any specific instructions or requirements for your project.
